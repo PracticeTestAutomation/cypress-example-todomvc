@@ -6,10 +6,10 @@ To clone, build and then start the TodoMWC app, run these commands:
 
 ```bash
 ## clone this repo to a local directory
-git clone https://github.com/PracticeTestAutomation/cypress-example-todomvc
+git clone https://github.com/PracticeTestAutomation/todomvc
 
 ## cd into the cloned repo
-cd cypress-example-todomvc
+cd todomvc
 
 ## install the node_modules
 npm install
