@@ -1,8 +1,8 @@
 # TodoMVC
 
-This repo contains an example React App.
+This repo contains the TodoMVC React App.
 
-To clone, install and then start the TodoMWC app, run these commands:
+To clone, build and then start the TodoMWC app, run these commands:
 
 ```bash
 ## clone this repo to a local directory
