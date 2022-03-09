@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "cypress-example-todomvc",
+  "name": "todomvc",
   "version": "0.0.0-development",
   "description": "This repo contains an example React App",
   "scripts": {
